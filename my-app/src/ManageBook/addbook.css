@@ -1,0 +1,25 @@
+.addcat{
+    width: 35%;
+    margin-left:32.5%;
+    margin-top:5%
+}
+
+.btns {
+    margin-top:25px;
+}
+.bdetail{
+    text-align: left;
+    margin-top:12px
+}
+
+.loginn{
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    color:white
+}
+.pre{
+    background-color:  #FFC312 !important;
+    color:black !important
+}
+.backgnd{
+    color:black !important;
+}

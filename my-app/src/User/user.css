@@ -1,0 +1,39 @@
+li{
+
+    display:inline-block;
+    width: 25%;
+    margin: 20px;
+}
+.dashboard{
+    width:80%;
+    margin-left:10%;
+    margin-top:5%
+}
+.btn{
+    margin-top:10px;
+    margin-left:15px
+}
+.alig{
+
+    font-weight: bold;
+}
+.calign{
+    text-align:left;
+    color:black !important
+}
+
+
+.ig {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.textblack{
+    color:black !important
+}
+.loginn{
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.pre{
+    background-color:  #FFC312 !important;
+    color:black !important
+}
